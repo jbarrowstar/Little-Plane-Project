@@ -1,5 +1,5 @@
 # The Little Plane Project
-![alt text](https://github.com/Glowstick0017/Little-Plane-Project/blob/master/css/tlpp-icon.png?raw=true)
+![alt text](C:\Users\dell\Newone THis\3d flight simulator game\flight.png)
 [![image](/.github/ISSUE_TEMPLATE/playbutton.png)](https://glowstick.me/tlpp/)
 
 [![image](https://img.shields.io/badge/Live_build-darkgreen)](https://glowstick.me/tlpp/)
